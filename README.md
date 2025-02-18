@@ -1,0 +1,1 @@
+# Integrating-Generative-AI-with-Microsoft-Sentinel-SOAR
