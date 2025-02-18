@@ -59,7 +59,7 @@ This project integrates a **LLaMA3** model (deployed via **Hugging Face**) with 
 ---
 
 ## Prerequisites
--**Azure Subscription**
+- **Azure Subscription**
 - **Python 3.9 or 3.10**
 - **Vs code**
 - **.NET Toolkit v8 or later**
